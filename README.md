@@ -1,6 +1,6 @@
 <h1 align="center">
-  <br />
-  <img src="https://p2p.paris/img/paris_p2p.svg" alt="Paris P2P" height="300px" />
+  <img src="https://p2p.paris/img/paris_p2p.svg" alt="Paris P2P" height="300px" /><br/>
+  Paris P2P
 </h1>
 
 <h3 align="center">Discussions & resources about Paris P2P Events.</h3>
