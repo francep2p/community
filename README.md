@@ -32,3 +32,4 @@ More info [here](https://github.com/aeddi/dontbeadick).
 * **Join the Meetup group**: https://www.meetup.com/Paris-P2P/
 * **Propose a presentation**: https://crpt.fyi/parisp2p-cfp
 * **Join the Discord server**: https://discord.gg/erKyUJ
+* **Join the GitHub [Organization](https://github.com/orgs/parisp2p/people)**: Contact an admin on Discord or send us an email
