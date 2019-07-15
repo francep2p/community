@@ -17,6 +17,14 @@ This repo is a good place to ask **questions** or give **suggestions** about the
 
 _Fill an issue [here](https://github.com/parisp2p/events/issues)._
 
+## Code of Conduct
+
+Since we're a peer-to-peer community, please, just _Don't be a Dick!_
+
+> If at anytime you choose to do something that a rational person of average intelligence could reasonably consider your actions as "Being a dick", you are in violation of this code of conduct.
+
+More info [here](https://github.com/aeddi/dontbeadick).
+
 ## Events
 
 * **Join the Meetup group**: https://www.meetup.com/Paris-P2P/
