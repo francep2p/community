@@ -8,23 +8,24 @@ Nous organisons des rencontres pour discuter autour des thèmes du 'peer to peer
 
 P2P Paris est avant tout une occasion d'échanger et de confronter ses idées à Paris.
 
-Chaque participant.e.s peut proposer des thématiques de discussions, et présenter ses projets à la communauté. Paris P2P est une organisation non-lucrative, décentralisée et ouverte.
+Chaque participant.e.s peut proposer des thématiques de discussions, et présenter ses projets à la communauté.
+Paris P2P est une organisation non-lucrative, décentralisée et ouverte.
 
-Deux types d'événements :
-Les Paris P2P mensuels : tous les premiers mercredi du mois.
+Deux types d'événements :<br />
+Les Paris P2P mensuels : tous les premiers mercredi du mois.<br />
 Les Paris P2P "Hors série"
 
 ## ⌚︎ Programme
 
-18h30-19h: Ouverture des portes
-19h-19h30: Talks (parfois il n'y en aura pas)
-19h30-20h: P2P - Person-to-person _(10 minutes, 5 rencontres)_
-20h-23h: FFA _(discutez avec qui vous voulez, faites des ateliers si ca vous chante, appréciez simplement le moment et la boisson, ...)_
+* 18h30-19h: Ouverture des portes
+* 19h-19h30: Talks (parfois il n'y en aura pas)
+* 19h30-20h: P2P - Person-to-person _(10 minutes, 5 rencontres)_
+* 20h-23h: FFA _(discutez avec qui vous voulez, faites des ateliers si ca vous chante, appréciez simplement le moment et la boisson, ...)_
 
 ## 🗼 Le lieu
 
-■ Ground Control
-Gare de Lyon  81 rue du Charolais  75012 Paris
+■ Ground Control<br />
+Gare de Lyon  81 rue du Charolais  75012 Paris<br />
 Ces rencontres se déroulent à Ground Control, à deux pas de Gare de Lyon, Paris.
 
 Espaces conviviaux, Bar (vin, bières) & snacks sont disponibles sur place.
@@ -35,6 +36,6 @@ RSVP sur ce groupe.
 
 Il n'est pas obligatoire d'être inscrit.e sur meetup.com pour se joindre à l'événement. Vous êtes également libre de venir accompagné.e.
 
-➡ https://p2p.paris
-➡ Proposer un talk/topic: http://crpt.fyi/parisp2p-cfp
+➡ https://p2p.paris<br />
+➡ Proposer un talk/topic: http://crpt.fyi/parisp2p-cfp<br />
 ➡ Contactez-nous : bootstrap@p2p.paris
