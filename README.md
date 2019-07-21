@@ -16,6 +16,8 @@
 
 This repo is a good place to ask **questions** or give **suggestions** about the events or the community in general.
 
+you can read more about our values [here](/docs/community-values-en.md)
+
 _Fill an issue [here](https://github.com/parisp2p/events/issues)._
 
 ## Code of Conduct
