@@ -18,7 +18,7 @@ This repo is a good place to ask **questions** or give **suggestions** about the
 
 You can read more about our values [here](/docs/community-values-en.md).
 
-You can submit a talk proposal [here](https://github.com/parisp2p/community/issues/new?labels=talk&template=talk_proposal.md&title=%5BTalk+Proposal%5D+%3Ctitle%3E).
+You can submit a talk or a workshop proposal [here](https://github.com/parisp2p/community/wiki/Call-For-Proposal).
 
 _Fill an issue [here](https://github.com/parisp2p/events/issues)._
 
