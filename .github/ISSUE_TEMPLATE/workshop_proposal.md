@@ -17,7 +17,7 @@ labels: workshop
 
 - [ ] Debate
 - [ ] Hands-on
-- [ ] Poster creation
+- [ ] [Poster creation](https://github.com/parisp2p/community/wiki/Poster-workshop)
 - [ ] Course
 
 #### Languages
