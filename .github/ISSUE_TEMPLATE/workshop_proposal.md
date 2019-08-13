@@ -13,7 +13,7 @@ labels: workshop
 
 #### Workshop type
 
-<!-- Select only one option below unless it's particularly relevant in your case to combine two workshops in one -->
+<!-- Select only one option below unless it's particularly relevant in your case to combine two workshops in one. -->
 
 - [ ] Debate
 - [ ] Hands-on
