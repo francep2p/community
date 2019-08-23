@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="790px" height="790px" viewBox="0 0 790 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>paris_p2p_no_border_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="paris_p2p-new-good-small" transform="translate(50.000000, 12.000000)">
+            <path d="M334.534514,7.77871487 L22.9966373,187.725851 C16.8105108,191.299014 13,197.900492 13,205.044417 L13,564.956263 C13,572.099823 16.8101252,578.701023 22.9957536,582.274319 L334.495754,762.220775 C340.685933,765.7967 348.314067,765.7967 354.504246,762.220775 L666.004246,582.274319 C672.189875,578.701023 676,572.099823 676,564.956263 L676,205.043056 C676,197.899861 672.190261,191.298941 666.00513,187.725511 L354.543007,7.77973589 C348.35301,4.20349427 340.724876,4.20310501 334.534514,7.77871487 Z" id="hexagon" stroke="#383B62" stroke-width="18" fill="#383B62" stroke-linejoin="round"></path>
+            <g id="lines-tower" transform="translate(197.000000, 0.000000)">
+                <path d="M131,122 L131,120.697143 C131,106.930286 136.748571,93.728 147,84 C157.24,93.728 163,106.930286 163,120.697143 L163,122 L131,122 Z" id="fill-55" fill="#43466F" fill-rule="nonzero"></path>
+                <polygon id="fill-49" stroke="#4D4F7D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="111 179 125.4 211 168.6 211 183 179"></polygon>
+                <path d="M118.316071,478.8 C126.375893,454.736408 132.802679,430.211265 137.522679,405.371429 L157.466786,405.371429 C162.186786,430.211265 168.613572,454.736408 176.673393,478.8 L118.316071,478.8 Z M176.420535,293.875387 L162.239464,119 L132.75,119 L118.579464,293.875387 C108.749643,415.147919 67.9342857,531.888857 0,633 L59.36875,633 C63.13,587.77849 101.11125,552.228571 147.5,552.228571 C193.878215,552.228571 231.859465,587.77849 235.620715,633 L295,633 C227.055178,531.888857 186.239822,415.147919 176.420535,293.875387 L176.420535,293.875387 Z" id="Fill-9" fill="#43466F" fill-rule="nonzero"></path>
+                <path d="M118.316071,478.8 C126.375893,455.271154 132.802679,431.291014 137.522679,407.003175 L157.466786,407.003175 C162.186786,431.291014 168.613572,455.271154 176.673393,478.8 L118.316071,478.8 Z M176.420535,293.875387 L162.239464,119 L132.75,119 L118.579464,293.875387 C108.749643,415.147919 67.9342857,531.888857 0,633 L59.36875,633 C63.13,587.77849 101.11125,552.228571 147.5,552.228571 C193.878215,552.228571 231.859465,587.77849 235.620715,633 L295,633 C227.055178,531.888857 186.239822,415.147919 176.420535,293.875387 Z" id="Stroke-31" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M251,559 C243.61111,544.225 236.718333,529.225 230.342778,514 L62.6572222,514 C56.2816667,529.225 49.3888888,544.225 42,559 L111.043889,559 C121.905555,554.178572 133.886111,551.5 146.5,551.5 C159.113889,551.5 171.105,554.178572 181.95611,559 L251,559 Z" id="Stroke-35" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="fill-49" fill="#43466F" fill-rule="nonzero" points="111 179 125.4 211 168.6 211 183 179"></polygon>
+                <path d="M89,370.5 L205,370.5" id="Stroke-37" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M186.687499,409 L108.3125,409 C102.62,409 98,404.136 98,398.142856 L98,371 L197,371 L197,398.142856 C197,404.136 192.379999,409 186.687499,409 Z" id="fill-41" fill="#43466F" fill-rule="nonzero"></path>
+                <path d="M186.687499,409 L108.3125,409 C102.62,409 98,404.136 98,398.142856 L98,371 L197,371 L197,398.142856 C197,404.136 192.379999,409 186.687499,409 Z" id="Stroke-41" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M183,182 L111,182 L111,161.428571 C111,155.12 115.608,150 121.285714,150 L172.714286,150 C178.392,150 183,155.12 183,161.428571 L183,182 Z" id="fill-45" fill="#43466F" fill-rule="nonzero"></path>
+                <path d="M183,180 L111,180 L111,159.428571 C111,153.12 115.608,148 121.285714,148 L172.714286,148 C178.392,148 183,153.12 183,159.428571 L183,180 Z" id="Stroke-45" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Stroke-49" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="111 179 125.4 211 168.6 211 183 179"></polygon>
+                <path d="M119,119.5 L178,119.5" id="Stroke-51" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M134,119 L134,117.902857 C134,106.309714 138.850357,95.192 147.5,87 C156.14,95.192 161,106.309714 161,117.902857 L161,119 L134,119 Z" id="Stroke-55" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M147.5,89 L147.5,51" id="Stroke-57" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M52.5,481 L52.5,466" id="Stroke-59" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M242.5,481 L242.5,466" id="Stroke-61" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M243,479 L52,479 L52,506.142856 C52,512.136 56.7015385,517 62.4945054,517 L232.505495,517 C238.298462,517 243,512.136 243,506.142856 L243,479 Z" id="fill-65" fill="#43466F" fill-rule="nonzero"></path>
+                <path d="M243,479 L52,479 L52,506.142856 C52,512.136 56.7015385,517 62.4945054,517 L232.505495,517 C238.298462,517 243,512.136 243,506.142856 L243,479 Z" id="Stroke-65" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M80.5,516 L80.5,501" id="Stroke-67" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M116.5,516 L116.5,501" id="Stroke-69" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M178.5,516 L178.5,501" id="Stroke-71" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M211.5,516 L211.5,501" id="Stroke-73" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-75" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="126.336809 209 173.43155 252.462581 120.665005 281.444536 180 324.917467 111 361"></polyline>
+                <path d="M146.5,516 L146.5,552" id="Stroke-77" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M94.5,516 L94.5,559" id="Stroke-79" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M199.5,516 L199.5,559" id="Stroke-81" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-83" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="196.586714 416 166 443.64138 212 467"></polyline>
+                <polyline id="Stroke-85" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="98.534358 416 129 443.615136 83 467"></polyline>
+                <polyline id="Stroke-87" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="58.1129731 633 21 598.646796 93 570"></polyline>
+                <polyline id="Stroke-89" stroke="#6568A8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="235.407455 633 272 598.646796 201 570"></polyline>
+            </g>
+            <g id="circles-tower" transform="translate(184.000000, 39.000000)" fill="#6ED3F0" fill-rule="nonzero">
+                <circle id="Oval" cx="179" cy="109" r="9"></circle>
+                <circle id="Oval" cx="181.5" cy="170.5" r="7.5"></circle>
+                <circle id="Oval" cx="194.5" cy="140.5" r="6.5"></circle>
+                <circle id="Oval" cx="185" cy="212" r="8"></circle>
+                <circle id="Oval" cx="192" cy="286" r="10"></circle>
+                <circle id="Oval" cx="176" cy="82" r="6"></circle>
+                <ellipse id="Oval" cx="308" cy="594.5" rx="9" ry="8.5"></ellipse>
+                <circle id="Oval" cx="248.5" cy="474.5" r="10.5"></circle>
+                <circle id="Oval" cx="224" cy="426" r="8"></circle>
+                <circle id="Oval" cx="187.5" cy="440.5" r="7.5"></circle>
+                <circle id="Oval" cx="180.5" cy="403.5" r="10.5"></circle>
+                <ellipse id="Oval" cx="209" cy="371.5" rx="9" ry="8.5"></ellipse>
+                <circle id="Oval" cx="255" cy="441" r="8"></circle>
+                <circle id="Oval" cx="211" cy="524" r="16"></circle>
+                <circle id="Oval" cx="249.5" cy="591.5" r="10.5"></circle>
+                <circle id="Oval" cx="264" cy="520" r="8"></circle>
+                <ellipse id="Oval" cx="287" cy="559.5" rx="9" ry="8.5"></ellipse>
+                <circle id="Oval" cx="213" cy="478" r="8"></circle>
+                <ellipse id="Oval" cx="209" cy="330.5" rx="9" ry="8.5"></ellipse>
+                <circle id="Oval" cx="143.5" cy="108.5" r="6.5"></circle>
+                <circle id="Oval" cx="140" cy="169" r="10"></circle>
+                <circle id="Oval" cx="123.5" cy="140.5" r="7.5"></circle>
+                <ellipse id="Oval" cx="134" cy="242.5" rx="9" ry="8.5"></ellipse>
+                <circle id="Oval" cx="145" cy="81" r="8"></circle>
+                <circle id="Oval" cx="16" cy="591" r="16"></circle>
+                <ellipse id="Oval" cx="75" cy="477.5" rx="9" ry="8.5"></ellipse>
+                <circle id="Oval" cx="96.5" cy="426.5" r="7.5"></circle>
+                <circle id="Oval" cx="142" cy="403" r="8"></circle>
+                <circle id="Oval" cx="112" cy="372" r="10"></circle>
+                <circle id="Oval" cx="150.5" cy="368.5" r="6.5"></circle>
+                <circle id="Oval" cx="171" cy="370" r="5"></circle>
+                <circle id="Oval" cx="130.5" cy="440.5" r="7.5"></circle>
+                <circle id="Oval" cx="65" cy="441" r="10"></circle>
+                <circle id="Oval" cx="111" cy="526" r="9"></circle>
+                <circle id="Oval" cx="71" cy="594" r="8"></circle>
+                <circle id="Oval" cx="57.5" cy="519.5" r="11.5"></circle>
+                <circle id="Oval" cx="37" cy="558" r="8"></circle>
+                <circle id="Oval" cx="108.5" cy="479.5" r="7.5"></circle>
+                <circle id="Oval" cx="121.5" cy="330.5" r="7.5"></circle>
+                <circle id="Oval" cx="159" cy="513" r="8"></circle>
+                <circle id="Oval" cx="160" cy="476" r="10"></circle>
+                <circle id="Oval" cx="160" cy="48" r="8"></circle>
+                <circle id="Oval" cx="160.5" cy="6.5" r="6.5"></circle>
+            </g>
+            <text id="Paris-P2P-Copy" stroke="#383B62" stroke-width="5" font-family="CourierNewPS-BoldMT, Courier New" font-size="122" font-weight="bold" fill="#383B62">
+                <tspan x="29.6489258" y="413">Paris</tspan>
+                <tspan x="395.708496" y="413" font-size="79"> </tspan>
+                <tspan x="443.116211" y="413">P</tspan>
+                <tspan x="516.328125" y="413" font-size="113">2</tspan>
+                <tspan x="584.13916" y="413">P</tspan>
+            </text>
+            <text id="Paris-P2P" font-family="CourierNewPS-BoldMT, Courier New" font-size="122" font-weight="bold" fill="#FFFFFF">
+                <tspan x="29.6489258" y="413">Paris</tspan>
+                <tspan x="395.708496" y="413" font-size="79"> </tspan>
+                <tspan x="443.116211" y="413">P</tspan>
+                <tspan x="516.328125" y="413" font-size="113">2</tspan>
+                <tspan x="584.13916" y="413">P</tspan>
+            </text>
+            <g id="circles-bg" opacity="0.846679688" transform="translate(31.000000, 87.000000)" fill="#6ED3F0" fill-rule="nonzero">
+                <circle id="Oval" cx="114.5" cy="128.5" r="6.5"></circle>
+                <circle id="Oval" cx="53.5" cy="153.5" r="6.5"></circle>
+                <circle id="Oval" cx="63" cy="220" r="7"></circle>
+                <circle id="Oval" cx="184" cy="378" r="5"></circle>
+                <circle id="Oval" cx="156.5" cy="79.5" r="5.5"></circle>
+                <circle id="Oval" cx="66.5" cy="100.5" r="10.5"></circle>
+                <circle id="Oval" cx="483.5" cy="460.5" r="10.5"></circle>
+                <circle id="Oval" cx="267" cy="577" r="8"></circle>
+                <circle id="Oval" cx="96" cy="400" r="8"></circle>
+                <circle id="Oval" cx="151" cy="428" r="6"></circle>
+                <circle id="Oval" cx="85" cy="478" r="12"></circle>
+                <circle id="Oval" cx="331" cy="533" r="7"></circle>
+                <circle id="Oval" cx="230.5" cy="202.5" r="6.5"></circle>
+                <circle id="Oval" cx="41" cy="370" r="6"></circle>
+                <circle id="Oval" cx="137.5" cy="363.5" r="6.5"></circle>
+                <circle id="Oval" cx="10.5" cy="226.5" r="10.5"></circle>
+                <circle id="Oval" cx="132" cy="476" r="5"></circle>
+                <circle id="Oval" cx="190.5" cy="226.5" r="6.5"></circle>
+                <circle id="Oval" cx="126" cy="203" r="5"></circle>
+                <circle id="Oval" cx="195.5" cy="153.5" r="9.5"></circle>
+                <circle id="Oval" cx="166.5" cy="14.5" r="9.5"></circle>
+                <circle id="Oval" cx="221" cy="107" r="7"></circle>
+                <circle id="Oval" cx="231" cy="14" r="8"></circle>
+                <circle id="Oval" cx="389.5" cy="6.5" r="6.5"></circle>
+                <circle id="Oval" cx="392.5" cy="60.5" r="4.5"></circle>
+                <circle id="Oval" cx="407" cy="220" r="7"></circle>
+                <circle id="Oval" cx="466" cy="160" r="12"></circle>
+                <circle id="Oval" cx="454" cy="61" r="5"></circle>
+                <circle id="Oval" cx="581.5" cy="450.5" r="9.5"></circle>
+                <circle id="Oval" cx="593.5" cy="138.5" r="5.5"></circle>
+                <circle id="Oval" cx="414" cy="129" r="8"></circle>
+                <circle id="Oval" cx="538" cy="406" r="6"></circle>
+                <circle id="Oval" cx="465" cy="412" r="6"></circle>
+                <circle id="Oval" cx="489.5" cy="366.5" r="6.5"></circle>
+                <circle id="Oval" cx="601" cy="210" r="10"></circle>
+                <circle id="Oval" cx="554.5" cy="192.5" r="5.5"></circle>
+                <circle id="Oval" cx="532.5" cy="495.5" r="5.5"></circle>
+                <circle id="Oval" cx="505.5" cy="204.5" r="6.5"></circle>
+                <circle id="Oval" cx="587.5" cy="371.5" r="14.5"></circle>
+                <circle id="Oval" cx="516" cy="85" r="10"></circle>
+                <circle id="Oval" cx="459" cy="22" r="10"></circle>
+                <circle id="Oval" cx="349.5" cy="587.5" r="14.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
