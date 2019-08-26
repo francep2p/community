@@ -20,6 +20,8 @@ You can read more about our values [here](/docs/community-values-en.md).
 
 You can submit a talk or a workshop proposal [here](https://github.com/parisp2p/community/wiki/Call-For-Proposal).
 
+See [current proposals](https://github.com/orgs/francep2p/projects/1).
+
 _Fill an issue [here](https://github.com/parisp2p/events/issues)._
 
 ## Code of Conduct
