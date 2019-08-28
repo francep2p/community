@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="790px" height="790px" viewBox="0 0 790 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>lyon_p2p_no_border_regular_NEW</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lyon_p2p-new-good-googd-good" transform="translate(64.000000, 12.000000)">
+            <path d="M321.534514,5.77871487 L9.99663729,185.725851 C3.81051082,189.299014 -2.57438742e-14,195.900492 0,203.044417 L0,562.956263 C8.7483378e-16,570.099823 3.81012518,576.701023 9.99575362,580.274319 L321.495754,760.220775 C327.685933,763.7967 335.314067,763.7967 341.504246,760.220775 L653.004246,580.274319 C659.189875,576.701023 663,570.099823 663,562.956263 L663,203.043056 C663,195.899861 659.190261,189.298941 653.00513,185.725511 L341.543007,5.77973589 C335.35301,2.20349427 327.724876,2.20310501 321.534514,5.77871487 Z" id="hexagon" stroke="#383B62" stroke-width="18" fill="#383B62" stroke-linejoin="round"></path>
+            <text id="Lyon-P2P" font-family="CourierNewPS-BoldMT, Courier New" font-size="104" font-weight="bold" fill="#FFFFFF">
+                <tspan x="97.2617188" y="561">Lyon</tspan>
+                <tspan x="346.902344" y="561" font-size="65"> </tspan>
+                <tspan x="385.908691" y="561">P</tspan>
+                <tspan x="448.318848" y="561" font-size="95">2</tspan>
+                <tspan x="505.328125" y="561">P</tspan>
+            </text>
+            <g id="circles-bg" opacity="0.85" transform="translate(28.000000, 13.000000)" fill="#6ED3F0" fill-rule="nonzero">
+                <circle id="Oval" cx="42.5" cy="297.5" r="5.5"></circle>
+                <circle id="Oval" cx="84" cy="184" r="5"></circle>
+                <circle id="Oval" cx="118.5" cy="129.5" r="6.5"></circle>
+                <circle id="Oval" cx="18.5" cy="212.5" r="9.5"></circle>
+                <circle id="Oval" cx="343.5" cy="608.5" r="9.5"></circle>
+                <circle id="Oval" cx="218.5" cy="592.5" r="7.5"></circle>
+                <circle id="Oval" cx="74.5" cy="409.5" r="7.5"></circle>
+                <circle id="Oval" cx="106.5" cy="452.5" r="5.5"></circle>
+                <circle id="Oval" cx="95" cy="327" r="11"></circle>
+                <circle id="Oval" cx="190" cy="450" r="11"></circle>
+                <circle id="Oval" cx="202.5" cy="646.5" r="6.5"></circle>
+                <circle id="Oval" cx="262.5" cy="614.5" r="4.5"></circle>
+                <circle id="Oval" cx="294.5" cy="584.5" r="5.5"></circle>
+                <circle id="Oval" cx="42.5" cy="568.5" r="5.5"></circle>
+                <circle id="Oval" cx="4.5" cy="500.5" r="4.5"></circle>
+                <circle id="Oval" cx="129.5" cy="600.5" r="9.5"></circle>
+                <circle id="Oval" cx="9" cy="271" r="5"></circle>
+                <circle id="Oval" cx="16.5" cy="372.5" r="5.5"></circle>
+                <circle id="Oval" cx="133" cy="378" r="8"></circle>
+                <circle id="Oval" cx="25.5" cy="447.5" r="9.5"></circle>
+                <circle id="Oval" cx="88.5" cy="246.5" r="4.5"></circle>
+                <circle id="Oval" cx="464.5" cy="609.5" r="8.5"></circle>
+                <circle id="Oval" cx="526.5" cy="568.5" r="4.5"></circle>
+                <circle id="Oval" cx="603" cy="539" r="6"></circle>
+                <circle id="Oval" cx="545" cy="171" r="5"></circle>
+                <circle id="Oval" cx="501" cy="216" r="7"></circle>
+                <circle id="Oval" cx="557.5" cy="361.5" r="6.5"></circle>
+                <circle id="Oval" cx="591.5" cy="421.5" r="5.5"></circle>
+                <circle id="Oval" cx="573" cy="294" r="9"></circle>
+                <circle id="Oval" cx="527" cy="258" r="5"></circle>
+                <circle id="Oval" cx="503.5" cy="136.5" r="7.5"></circle>
+                <circle id="Oval" cx="314" cy="6" r="6"></circle>
+                <circle id="Oval" cx="495.5" cy="308.5" r="7.5"></circle>
+                <circle id="Oval" cx="495.5" cy="445.5" r="7.5"></circle>
+                <circle id="Oval" cx="420.5" cy="436.5" r="9.5"></circle>
+                <circle id="Oval" cx="591" cy="223" r="6"></circle>
+                <circle id="Oval" cx="414" cy="596" r="5"></circle>
+                <circle id="Oval" cx="488" cy="381" r="13"></circle>
+                <circle id="Oval" cx="384.5" cy="653.5" r="6.5"></circle>
+                <circle id="Oval" cx="591.5" cy="344.5" r="5.5"></circle>
+                <circle id="Oval" cx="576" cy="471" r="10"></circle>
+                <circle id="Oval" cx="290" cy="676" r="15"></circle>
+            </g>
+            <g id="LION" transform="translate(168.000000, 44.000000)">
+                <polygon id="Path-59" fill="#43466F" points="163.467262 14.9551373 177.017857 29.0792418 203.184524 17.4062432 203.184524 33.8013999 241.484001 29.0792418 235.892857 43.245716 271.404762 43.245716 265.797619 55.9955428 291.964286 68.7453696 284.488095 84.8007071 316.200969 117.855814 293.366071 117.855814 320 169.327337 302.244048 169.327337 313.265078 256.498025 296.169643 232.604255 284.488095 318.008113 265.797619 284.075778 253.181548 357.881155 235.892857 336.491733 213.464286 395.544519 205.053571 357.881155 162.532738 438.955137 120.712798 357.881155 111.60119 391.175829 90.5744048 335.547301 72.8184524 357.881155 61.1369048 284.075778 41.5119048 318.008113 30.764881 233.548686 12.7349216 256.498025 23.7559524 169.327337 6 169.327337 33.5684524 118.800245 9.79903059 117.855814 41.5119048 84.8007071 34.9702381 68.7453696 60.202381 55.9955428 52.7261905 43.245716 90.5744048 43.245716 84.9672619 29.0792418 122.815476 35.6902631 121.880952 17.0527354 149.916667 29.0792418"></polygon>
+                <g id="lion-lines-right" transform="translate(161.000000, 14.955137)" stroke="#6568A8" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+                    <path d="M2.4672619,65.1157644 L25.3630952,59.4498401 L57.6041667,74.0868112 L80.5,129.801733 L55.2678571,192.599061 L57.1369048,208.437811 L47.7916667,227.066767 C39.3908828,227.669312 32.6155852,227.669312 27.4657738,227.066767 C22.3159624,226.464222 13.1607045,224.651775 0,221.629428 L0.5,198.997653 L21.1577381,190.238259 L12.9774979,177.789175 L0.5,181.526043" id="Path-44"></path>
+                    <polyline id="Path-47" points="2 0 14.4531528 14.1224459 43.1190476 2.09735173 43.1190476 18.8440495 80.9672619 14.1224459 71.6220238 28.2642526 112.27381 28.2642526 104.797619 39.6191052 130.964286 53.7839159 123.488095 68.3299665 155.200969 102.888593 130.964286 102.888593 158.968002 154.354072 141.244048 155.770553 152.265078 241.514524 135.169643 217.62356 123.488095 305.737995 104.797619 269.089038 91.7114588 344.534379 74.4255952 320.554517 52.4642857 380.54469 47.3244048 341.362203 1 415.044863"></polyline>
+                    <path d="M42.1845238,18.8440495 L25.3630952,59.4498401" id="Path-48"></path>
+                    <path d="M104.797619,39.6191052 L57.1369048,74.0868112" id="Path-49"></path>
+                    <path d="M57.6041667,74.0868112 L130.964286,102.888593" id="Path-50"></path>
+                    <polyline id="Path-51" points="130.964286 102.888593 101.994048 144.438704 80.4840011 129.801733"></polyline>
+                    <polyline id="Path-52" points="135.636905 217.62356 101.994048 144.438704 104.797619 269.089038 57.1369048 208.437811 48.7261905 227.066767 74.4255952 321.943984"></polyline>
+                    <path d="M2.4672619,265.827657 L37.2782738,256.205987" id="Path-53"></path>
+                    <polyline id="Path-54" points="21.1577381 190.238259 33.7738095 181.526043 30.5029762 139.717101"></polyline>
+                    <path d="M33.7738095,181.526043 L54.8005952,192.599061" id="Path-55"></path>
+                    <polyline id="Path-56" points="2.93452381 65.1157644 33.7738095 107.610196 60.4077381 112.80396 71.6220238 109.498838"></polyline>
+                    <polyline id="Path-57" points="35.6428571 107.610196 30.5029762 139.717101 55.2678571 127.913092 60.4077381 112.3318"></polyline>
+                    <path d="M103.197279,143.484258 L141.408163,155.444142" id="Path-45"></path>
+                    <polyline id="Path-46" points="123.70068 69.4032698 60.4077381 74.1307902 71.6220238 27.8010899"></polyline>
+                    <polyline id="Path-58" points="44.4829932 345.490463 38.8911565 254.722071 49.6088435 227.518675"></polyline>
+                    <path d="M3.9047619,256.205987 L36.0654762,348.044863 L3.9047619,256.205987 Z" id="Path-60-Copy" transform="translate(19.985119, 302.125425) scale(1, -1) translate(-19.985119, -302.125425) "></path>
+                </g>
+                <g id="lion-dots-right" transform="translate(171.000000, 10.955137)" fill="#6ED3F0" fill-rule="nonzero">
+                    <ellipse id="Oval" cx="50.3265306" cy="78.1307902" rx="7.45578231" ry="7.5640327"></ellipse>
+                    <ellipse id="Oval" cx="71.2959184" cy="133.442779" rx="6.05782313" ry="6.14577657"></ellipse>
+                    <ellipse id="Oval" cx="93.1972789" cy="147.152589" rx="7.45578231" ry="7.5640327"></ellipse>
+                    <ellipse id="Oval" cx="15.8435374" cy="63.0027248" rx="5.59183673" ry="5.67302452"></ellipse>
+                    <ellipse id="Oval" cx="6.52380952" cy="17.6185286" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <ellipse id="Oval" cx="29.3571429" cy="117.36921" rx="9.78571429" ry="9.92779292"></ellipse>
+                    <ellipse id="Oval" cx="20.9693878" cy="143.843324" rx="5.12585034" ry="5.20027248"></ellipse>
+                    <ellipse id="Oval" cx="45.2006803" cy="131.551771" rx="4.19387755" ry="4.25476839"></ellipse>
+                    <ellipse id="Oval" cx="50.792517" cy="116.423706" rx="3.26190476" ry="3.30926431"></ellipse>
+                    <ellipse id="Oval" cx="33.5510204" cy="22.346049" rx="4.65986395" ry="4.72752044"></ellipse>
+                    <circle id="Oval" cx="33.5" cy="5.54486269" r="5.5"></circle>
+                    <circle id="Oval" cx="71" cy="18.0448627" r="5"></circle>
+                    <ellipse id="Oval" cx="62.5238095" cy="32.6633913" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <circle id="Oval" cx="95" cy="45.0448627" r="6"></circle>
+                    <ellipse id="Oval" cx="114.632653" cy="73.4032698" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <ellipse id="Oval" cx="122.554422" cy="107.914169" rx="8.8537415" ry="8.98228883"></ellipse>
+                    <circle id="Oval" cx="127" cy="224.044863" r="7"></circle>
+                    <circle id="Oval" cx="149" cy="158.044863" r="4"></circle>
+                    <circle id="Oval" cx="144.5" cy="106.544863" r="5.5"></circle>
+                    <circle id="Oval" cx="121" cy="58.0448627" r="4"></circle>
+                    <circle id="Oval" cx="102.5" cy="31.5448627" r="4.5"></circle>
+                    <ellipse id="Oval" cx="131.408163" cy="159.444142" rx="5.59183673" ry="5.67302452"></ellipse>
+                    <ellipse id="Oval" cx="95.0612245" cy="272.904632" rx="8.3877551" ry="8.50953678"></ellipse>
+                    <circle id="Oval" cx="64.7823129" cy="326.416894" r="7"></circle>
+                    <circle id="Oval" cx="82" cy="347.044863" r="6"></circle>
+                    <circle id="Oval" cx="44" cy="386.044863" r="7"></circle>
+                    <circle id="Oval" cx="114" cy="308.044863" r="7"></circle>
+                    <circle id="Oval" cx="142.5" cy="243.544863" r="7.5"></circle>
+                    <circle id="Oval" cx="35.5" cy="347.544863" r="7.5"></circle>
+                    <circle id="Oval" cx="39" cy="233.044863" r="6"></circle>
+                    <ellipse id="Oval" cx="23.5918367" cy="185.717887" rx="5.59183673" ry="5.67302452"></ellipse>
+                    <circle id="Oval" cx="10.5" cy="193.544863" r="3.5"></circle>
+                    <ellipse id="Oval" cx="27.0272109" cy="258.722071" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <circle id="Oval" cx="45.7108844" cy="195.36376" r="6.5"></circle>
+                    <ellipse id="Oval" cx="47.5918367" cy="213.717887" rx="5.59183673" ry="5.67302452"></ellipse>
+                </g>
+                <g id="lion-lines-right" transform="translate(82.500000, 222.955137) scale(-1, 1) translate(-82.500000, -222.955137) translate(3.000000, 14.955137)" stroke="#6568A8" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+                    <path d="M2.4672619,65.1157644 L25.3630952,59.4498401 L57.6041667,74.0868112 L80.5,129.801733 L55.2678571,192.599061 L57.1369048,208.437811 L47.7916667,227.066767 C39.3908828,227.669312 32.6155852,227.669312 27.4657738,227.066767 C22.3159624,226.464222 13.1607045,224.651775 0,221.629428 L0.5,198.997653 L21.1577381,190.238259 L12.9774979,177.789175 L0.5,181.526043" id="Path-44"></path>
+                    <polyline id="Path-47" points="2 0 14.4531528 14.1224459 43.1190476 2.09735173 43.1190476 18.8440495 80.9672619 14.1224459 71.6220238 28.2642526 112.27381 28.2642526 104.797619 39.6191052 130.964286 53.7839159 123.488095 68.3299665 155.200969 102.888593 130.964286 102.888593 158.968002 154.354072 141.244048 155.770553 152.265078 241.514524 135.169643 217.62356 123.488095 305.737995 104.797619 269.089038 91.7114588 344.534379 74.4255952 320.554517 52.4642857 380.54469 47.3244048 341.362203 1 415.044863"></polyline>
+                    <path d="M42.1845238,18.8440495 L25.3630952,59.4498401" id="Path-48"></path>
+                    <path d="M104.797619,39.6191052 L57.1369048,74.0868112" id="Path-49"></path>
+                    <path d="M57.6041667,74.0868112 L130.964286,102.888593" id="Path-50"></path>
+                    <polyline id="Path-51" points="130.964286 102.888593 101.994048 144.438704 80.4840011 129.801733"></polyline>
+                    <polyline id="Path-52" points="135.636905 217.62356 101.994048 144.438704 104.797619 269.089038 57.1369048 208.437811 48.7261905 227.066767 74.4255952 321.943984"></polyline>
+                    <path d="M2.4672619,265.827657 L37.2782738,256.205987" id="Path-53"></path>
+                    <polyline id="Path-54" points="21.1577381 190.238259 33.7738095 181.526043 30.5029762 139.717101"></polyline>
+                    <path d="M33.7738095,181.526043 L54.8005952,192.599061" id="Path-55"></path>
+                    <polyline id="Path-56" points="2.93452381 65.1157644 33.7738095 107.610196 60.4077381 112.80396 71.6220238 109.498838"></polyline>
+                    <polyline id="Path-57" points="35.6428571 107.610196 30.5029762 139.717101 55.2678571 127.913092 60.4077381 112.3318"></polyline>
+                    <path d="M103.197279,143.484258 L141.408163,155.444142" id="Path-45"></path>
+                    <polyline id="Path-46" points="123.70068 69.4032698 60.4077381 74.1307902 71.6220238 27.8010899"></polyline>
+                    <polyline id="Path-58" points="44.4829932 345.490463 38.8911565 254.722071 49.6088435 227.518675"></polyline>
+                    <path d="M3.9047619,256.205987 L36.0654762,348.044863 L3.9047619,256.205987 Z" id="Path-60-Copy" transform="translate(19.985119, 302.125425) scale(1, -1) translate(-19.985119, -302.125425) "></path>
+                </g>
+                <g id="lion-dots-right" transform="translate(76.500000, 207.955137) scale(-1, 1) translate(-76.500000, -207.955137) translate(0.000000, 10.955137)" fill="#6ED3F0" fill-rule="nonzero">
+                    <ellipse id="Oval" cx="50.3265306" cy="78.1307902" rx="7.45578231" ry="7.5640327"></ellipse>
+                    <ellipse id="Oval" cx="71.2959184" cy="133.442779" rx="6.05782313" ry="6.14577657"></ellipse>
+                    <ellipse id="Oval" cx="93.1972789" cy="147.152589" rx="7.45578231" ry="7.5640327"></ellipse>
+                    <ellipse id="Oval" cx="15.8435374" cy="63.0027248" rx="5.59183673" ry="5.67302452"></ellipse>
+                    <ellipse id="Oval" cx="6.52380952" cy="17.6185286" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <ellipse id="Oval" cx="29.3571429" cy="117.36921" rx="9.78571429" ry="9.92779292"></ellipse>
+                    <ellipse id="Oval" cx="20.9693878" cy="143.843324" rx="5.12585034" ry="5.20027248"></ellipse>
+                    <ellipse id="Oval" cx="45.2006803" cy="131.551771" rx="4.19387755" ry="4.25476839"></ellipse>
+                    <ellipse id="Oval" cx="50.792517" cy="116.423706" rx="3.26190476" ry="3.30926431"></ellipse>
+                    <ellipse id="Oval" cx="33.5510204" cy="22.346049" rx="4.65986395" ry="4.72752044"></ellipse>
+                    <circle id="Oval" cx="33.5" cy="5.54486269" r="5.5"></circle>
+                    <circle id="Oval" cx="71" cy="18.0448627" r="5"></circle>
+                    <ellipse id="Oval" cx="62.5238095" cy="32.6633913" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <circle id="Oval" cx="95" cy="45.0448627" r="6"></circle>
+                    <ellipse id="Oval" cx="114.632653" cy="73.4032698" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <ellipse id="Oval" cx="122.554422" cy="107.914169" rx="8.8537415" ry="8.98228883"></ellipse>
+                    <circle id="Oval" cx="127" cy="224.044863" r="7"></circle>
+                    <circle id="Oval" cx="149" cy="158.044863" r="4"></circle>
+                    <circle id="Oval" cx="144.5" cy="106.544863" r="5.5"></circle>
+                    <circle id="Oval" cx="121" cy="58.0448627" r="4"></circle>
+                    <circle id="Oval" cx="102.5" cy="31.5448627" r="4.5"></circle>
+                    <ellipse id="Oval" cx="131.408163" cy="159.444142" rx="5.59183673" ry="5.67302452"></ellipse>
+                    <ellipse id="Oval" cx="95.0612245" cy="272.904632" rx="8.3877551" ry="8.50953678"></ellipse>
+                    <circle id="Oval" cx="64.7823129" cy="326.416894" r="7"></circle>
+                    <circle id="Oval" cx="82" cy="347.044863" r="6"></circle>
+                    <circle id="Oval" cx="44" cy="386.044863" r="7"></circle>
+                    <circle id="Oval" cx="114" cy="308.044863" r="7"></circle>
+                    <circle id="Oval" cx="142.5" cy="243.544863" r="7.5"></circle>
+                    <circle id="Oval" cx="35.5" cy="347.544863" r="7.5"></circle>
+                    <circle id="Oval" cx="39" cy="233.044863" r="6"></circle>
+                    <ellipse id="Oval" cx="23.5918367" cy="185.717887" rx="5.59183673" ry="5.67302452"></ellipse>
+                    <circle id="Oval" cx="10.5" cy="193.544863" r="3.5"></circle>
+                    <ellipse id="Oval" cx="27.0272109" cy="258.722071" rx="6.52380952" ry="6.61852861"></ellipse>
+                    <circle id="Oval" cx="45.7108844" cy="195.36376" r="6.5"></circle>
+                    <ellipse id="Oval" cx="47.5918367" cy="213.717887" rx="5.59183673" ry="5.67302452"></ellipse>
+                </g>
+                <circle id="Oval" fill="#6ED3F0" fill-rule="nonzero" cx="162" cy="281" r="5"></circle>
+                <circle id="Oval" fill="#6ED3F0" fill-rule="nonzero" cx="161.5" cy="8.5" r="8.5"></circle>
+                <circle id="Oval" fill="#6ED3F0" fill-rule="nonzero" cx="161.5" cy="237.5" r="5.5"></circle>
+                <circle id="Oval" fill="#6ED3F0" fill-rule="nonzero" cx="162" cy="369" r="9"></circle>
+                <circle id="Oval" fill="#6ED3F0" fill-rule="nonzero" cx="161.5" cy="79.5" r="6.5"></circle>
+                <circle id="Oval" fill="#6ED3F0" fill-rule="nonzero" cx="161.5" cy="430.5" r="10.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
