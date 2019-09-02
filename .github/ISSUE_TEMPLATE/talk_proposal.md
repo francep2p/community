@@ -34,11 +34,11 @@ labels: talk
 
 #### Video recording
 
-<!--- The videos will then be made available along with their slides in a dedicated section of the [p2p.paris](https://p2p.paris "p2p.paris") website. -->
+<!-- The videos will then be made available along with their slides in a dedicated section of the [p2p.paris](https://p2p.paris "p2p.paris") website. -->
 
-- [ ] Yes (mandatory)
-- [ ] Yes (if possible)
-- [ ] No
+- [ ] Yes (mandatory) <!-- You absolutely want your talk to be recorded, if not possible for a given event, you prefer to postpone your talk. -->
+- [ ] Yes (if possible) <!-- You agree with your talk being recorded if the conditions are suitable: place not too noisy, with sufficient lights, etc... -->
+- [ ] No <!-- You don't want your talk to be recorded. -->
 
 ---
 
