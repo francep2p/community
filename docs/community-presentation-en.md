@@ -1,4 +1,4 @@
-# Paris P2P (& Cryptography)
+# Paris P2P
 
 We organize physical meetings to discuss around P2P, decentralization, autonomous networks and communities, distributed systems, decentralized systems, offline-first apps, mesh networks, privacy, anti-surveillance, anti-censorship, security, cryptography, blockchains.
 

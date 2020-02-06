@@ -1,4 +1,4 @@
-# Paris P2P (& Cryptography)
+# Paris P2P
 
 ## Description
 

@@ -1,10 +1,10 @@
 # Paris P2P 101
 
-Paris peer2peer is you, us, anybody that wants to get involved in creating a thriving community around P2P technologies and cryptography.
+Paris peer2peer is you, us, anybody that wants to get involved in creating a thriving community around all things P2P.
 
-It aims to be a signalling server for all of us to meet new peers, extend our network and exchange about P2P/cryptography.
+It aims to be a signalling server for all of us to meet new peers, extend our network and exchange about P2P.
 
-We will provide a recurring monthly meetup (each first Wednesday of the month) to gather, show and discuss P2P and cryptography, as well as more themed specific event with the presentation or workshops.
+We will provide a recurring monthly meetup (each first Wednesday of the month) to gather, show and discuss P2P, as well as more themed specific event with the presentation or workshops.
 
 # Values
 

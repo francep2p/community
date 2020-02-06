@@ -1,6 +1,6 @@
 # Paris P2P - Monthly Peer to Beer
 
-Paris P2P est un rendez-vous mensuel organisé par et pour la communauté des passionné.e.s de P2P et de cryptographie.
+Paris P2P est un rendez-vous mensuel organisé par et pour la communauté des passionné.e.s de P2P.
 
 Ces rendez-vous prennent la forme d’afterwork informels, gratuits, destinés à favoriser la rencontre et les échanges entre développeurs/développeuses, passionné.e.s et curieux/curieuses, autour d’un verre ou de discussions ouvertes.
 
