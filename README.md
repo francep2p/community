@@ -3,7 +3,7 @@
   France P2P
 </h1>
 
-<h2 align="center">The French community interested in P2P & Cryptography technologies.</h2>
+<h2 align="center">The French community interested in all things P2P.</h2>
 
 <h3 align="center">Discussions, documentation, and resources on community practices.</h3>
 
