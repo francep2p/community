@@ -43,9 +43,9 @@ _Fill an issue [here](https://github.com/parisp2p/events/issues)._
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/parisp2p/community/issues/22">
-        <img src="https://via.placeholder.com/200x200?text=Coming%20soon" alt="Lyon P2P" height="200px" /><br />
-        Rouen P2P
+      <a href="https://github.com/parisp2p/community/issues/65">
+        <img src="https://raw.githubusercontent.com/francep2p/community/master/assets/logos/nantes/nantes_p2p_large.svg?sanitize=true" alt="Nantes P2P" height="200px" /><br />
+        Nantes P2P
       </a>
     </td>
   </tr>
